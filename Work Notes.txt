@@ -1,0 +1,97 @@
+gsconsultingltd.com
+johnny@gsconsultingltd.com
+
+
+m365 portal login
+www.office.com
+
+Install and more
+Microsoft 365 apps
+Install Office
+
+CMMC research required - Cybersecurity Maturity Model Certification
+CUI-Controlled Unclassified Information
+NIST800171 - National Institute of Technology 110 controls
+
+TCSI - Wayne - Total Computer Systems Inc
+Domino1 Server
+File Server
+
+Download Amazon Workspaces
+slechnir@totalcsi.com
+SLiad+N62YDD
+TCSIPassword123!
+
+HCL Notes - IBM Email
+password
+TCSI Change Management - Prompts/Forms by Dad, must be approved by Wayne
+
+Veeam Backup for AWS (Favorites)
+slechnir
+TCSIPassword123!
+Taking snapshots every day
+
+
+Remote Desktop Connection
+Domino1 Server - 172.31.29.26 - TOTALCSI\adminslechnir - Sc0ttsW0rd$$
+Server1 - 172.31.87.65 - totalcsi\adminslechnir -Sc0ttsW0rd$$ - (34.198.253.9)
+In event, writes to event log.
+Windows Administrative Tools
+Event Viewer
+Task Scheduler
+**************DISCONNECT ONLY******************
+
+
+ProofPoint
+slechnir@totalcsi.com
+Sc0ttsW0rd$$
+Administration
+Domains
+
+AWS
+totalcsi
+slechnir@totalcsi.com
+Sc0ttsW0rd$$
+EC2 - Build Servers
+
+
+Timesheet
+One task at a time tracking
+Don't bundle tasks
+
+
+CHATGPT
+johnlechnir@gsconsultingltd.onmicrosoft.com
+Sc0ttsW0rd$$
+
+
+
+
+Tom Truitt
+
+
+
+TEST AWS 
+johnscott@gsconsultingltd.com
+Sc0ttsw0rd$$
+
+
+
+Dad's Workspace
+SLiad+W8CAB6
+johnscott
+M1neonly!!1sM1ne
+
+
+
+INSTANCE
+johnscott
+Sc0ttsw0rd$$
+
+
+
+Landing Zone
+Cloud Foundations
+emr-kerberos-enabled
+
+
